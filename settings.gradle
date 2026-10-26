@@ -5,6 +5,8 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+rootProject.name = '2026-7teamcode'
+
 
 include ':FtcRobotController'
 include ':TeamCode'
